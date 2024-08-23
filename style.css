@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(193, 191, 191);
+    
+}
+h1{
+    color:rgb(68, 203, 203);
+}
+form{
+    background-color: aliceblue;
+    text-align: center;
+    max-width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius:10px;
+    box-shadow: 5px 5px 15px rgb(38, 118, 138);
+
+}
+
+
+#textBox{
+    width:50%;
+    text-align: center;
+    font-size: 2em;
+    border:2px rgb(204, 119, 119);
+    border-radius: 4px;
+    margin-bottom: 20px;
+
+}
+
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+button{
+    margin-top: 15px;
+    background-color: rgba(199, 63, 18, 0.952);
+    font-size: 3em;
+    border:none;
+    padding:10px 15px;
+    border-radius: 5px;
+    cursor:pointer;
+
+}
+
+button:hover{
+    background-color:rgba(225, 50, 15, 0.952) ;
+}
+
+#result{
+    font-size: 1.5em;
+    font-weight: bold;
+}
